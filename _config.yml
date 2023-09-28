@@ -21,16 +21,16 @@ timezone: Asia/Seoul
 
 title: Dongjin Hwang # the main title
 
-tagline: Econ. Math. Political Science # it will display as the sub-title
+tagline: Econ. Math. Political Science. # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
+description: 생각나는대로 끄적입니다 >- # used by seo meta and the atom feed
   
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: https://djsteve1223.github.io
 
 github:
-  username: djsteve1223 # change to your github username
+  username:  # change to your github username
 
 twitter:
   username: dongjin_h # change to your twitter username
@@ -38,7 +38,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: 황동진 
   email: djsteve@snu.ac.kr # change to your email address
   links:
     # The first element serves as the copyright owner's link
